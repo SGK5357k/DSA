@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/SGK5357k/DSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/SGK5357k/DSA/tree/master/0595-big-countries) |
 | [1045-customers-who-bought-all-products](https://github.com/SGK5357k/DSA/tree/master/1045-customers-who-bought-all-products) |
+| [1070-product-sales-analysis-iii](https://github.com/SGK5357k/DSA/tree/master/1070-product-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/SGK5357k/DSA/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/SGK5357k/DSA/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/SGK5357k/DSA/tree/master/1729-find-followers-count) |
