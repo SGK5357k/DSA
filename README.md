@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SGK5357k/DSA/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/SGK5357k/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SGK5357k/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SGK5357k/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SGK5357k/DSA/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/SGK5357k/DSA/tree/master/0242-valid-anagram) |
 ## Database
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SGK5357k/DSA/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/SGK5357k/DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
